@@ -1,0 +1,1 @@
+vite不支持require 还没修
